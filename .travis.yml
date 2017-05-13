@@ -6,7 +6,3 @@ python:
   - "3.3"
 install: - "./.travis/install.sh" 
 script: - "./.travis/run.sh"
-
-
-
-
