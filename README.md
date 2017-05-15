@@ -1,5 +1,5 @@
 [![Build Status](https://img.shields.io/travis/lwconklin/Basic-Expression-Lexicon-Variation-Algorithms-BELVA.svg.svg?style=flat-square)](https://travis-ci.org/lwconklin/Basic-Expression-Lexicon-Variation-Algorithms-BELVA)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-GNU-yellow.svg)](https://opensource.org/licenses/GNU)
 [![Release](https://img.shields.io/github/release/kenb123/Basic-Expression-Variation-Algorithms-BELVA.svg?label=Release&maxAge=60)](https://github.com/kenb123//Basic-Expression-Variation-Algorithms-BELVA/releases/latest)
 ==
 
